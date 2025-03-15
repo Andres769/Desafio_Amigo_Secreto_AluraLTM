@@ -16,9 +16,26 @@ Este proyecto es una aplicación web que permite realizar un sorteo de **Amigo S
 - JavaScript (Vanilla JS)  
 - SweetAlert2 (para alertas más amigables)  
 
-## 📌 Instalación y Uso
+## 📌 Instalación
 
 1. Clonar este repositorio:  
    ```bash
    git clone https://github.com/Andres769/Desafio_Amigo_Secreto_AluraLTM.git
+
+## 📖 Instrucciones de Uso
+
+1️⃣ Agregar Participantes
+
+Escribe un nombre en el campo de texto y presiona "Adicionar".
+Se mostrará una lista con los nombres agregados.
+No se permiten nombres repetidos.
+
+2️⃣ Realizar el Sorteo
+
+Una vez que haya al menos 2 participantes, el botón "Sortear amigo" se habilitará.
+Presiona el botón y se mostrará el resultado en pantalla.
+
+3️⃣ Realizar un Nuevo Sorteo
+
+Puedes presionar "Nuevo Sorteo" para reiniciar la lista y hacer otro sorteo.
 
